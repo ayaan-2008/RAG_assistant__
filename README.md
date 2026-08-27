@@ -30,11 +30,7 @@ All processing runs locally, providing improved privacy and control over sensiti
 
 ## Screenshot
 
-<p align="center">
-  <img src="your-screenshot-url-here" width="700" alt="RAG Assistant Screenshot" />
-</p>
-
-<!-- Replace the URL above with your screenshot link after uploading -->
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/bafc7261-613e-4bf7-9f6e-95e08a2fb8a8" />
 
 ---
 
